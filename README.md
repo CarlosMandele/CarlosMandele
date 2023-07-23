@@ -1,6 +1,5 @@
 ## Hello, i'm Carlos Mandele ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
 
-
 <img src="https://komarev.com/ghpvc/?username=CarlosMandelea&color=yellow" alt="Profile views" />  
 
 
@@ -20,29 +19,20 @@ Data Scientist and Full Stack Python developer in progress
 
 You can ask me anything, I'll gladly answer it if I can
 
----
-
-<div <div align='center'>
-  <a href="https://github.com/Marina">
+<div>
+  <a href="https://github.com/CarlosMandele">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosMandele&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMandele&layout=compact&langs_count=7&theme=outrun"/>
 </div>
-<div style="display: inline_block"><br>
-  
----
 
-
-
+##
 # You can find me here too 👇
-
 
 <a href="https://www.linkedin.com/in/kalombola/" target="_blank">
 <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 </a>  
 
-
-
-
+</div>
 
 ## Technologies stack, tools, and programming languages i use the most
 
