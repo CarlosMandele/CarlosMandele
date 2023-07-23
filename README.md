@@ -19,7 +19,7 @@ Data Scientist and Full Stack Python developer in progress
 
 You can ask me anything, I'll gladly answer it if I can
 
-
+-----
 
  <div align='center'>
 <img height="150rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CarlosMandele&&show_icons=true&theme=outrun&include_all_commits=true&count_private=true">
@@ -31,6 +31,8 @@ You can ask me anything, I'll gladly answer it if I can
 <a href="https://www.linkedin.com/in/kalombola/" target="_blank">
 <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 </a>  
+
+------
 
 ## Tech stack
 
