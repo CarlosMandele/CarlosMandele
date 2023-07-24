@@ -21,12 +21,15 @@ You can ask me anything, I'll gladly answer it if I can
 
 -----
 
+<div>
  <div align='center'>
-<img height="150rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CarlosMandele&&show_icons=true&theme=outrun&include_all_commits=true&count_private=true">
-<img height="150rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CarlosMandele&layout=compact&langs_count=16&theme=outrun">
+ <a href="https://github.com/CarlosMandele">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CarlosMandele&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMandele&layout=compact&langs_count=7&theme=outrun"/>
+</div>
 
 
-# You can find me here too 👇:
+## You can find me here too 👇:
 
 <a href="https://www.linkedin.com/in/kalombola/" target="_blank">
 <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
@@ -34,7 +37,7 @@ You can ask me anything, I'll gladly answer it if I can
 
 ------
 
-## Tech stack
+## Technologies, programming languages and tools i use the most
 
 <div align="center"><br>
 
@@ -60,7 +63,7 @@ You can ask me anything, I'll gladly answer it if I can
 
  
 
-# Work In Progress 👇
+## Projects in progress 👇
 
 
 
