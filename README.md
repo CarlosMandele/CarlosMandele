@@ -24,8 +24,8 @@ You can ask me anything, I'll gladly answer it if I can
  <div>
   <a href="https://github.com/CarlosMandele">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosMandele&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMandele&layout=compact&langs_count=7&theme=dark"/>
-   <img src="https://komarev.com/ghpvc/?username=CarlosMandele&color=green" alt="CarlosMandele" /><br>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMandele&layout=compact&langs_count=7&theme=dark"/<br>
+  </div>
    
 -------
 
