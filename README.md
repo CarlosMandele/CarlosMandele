@@ -21,12 +21,7 @@ You can ask me anything, I'll gladly answer it if I can
 
 -----
 
-<div>
- <div align='center'>
- <a href="https://github.com/CarlosMandele">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CarlosMandele&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMandele&layout=compact&langs_count=7&theme=outrun"/>
-</div>
+
 
 -------
 
