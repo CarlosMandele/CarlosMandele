@@ -28,6 +28,7 @@ You can ask me anything, I'll gladly answer it if I can
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMandele&layout=compact&langs_count=7&theme=outrun"/>
 </div>
 
+-------
 
 ## You can find me here too 👇:
 
