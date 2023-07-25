@@ -1,6 +1,6 @@
 ## Hello, i'm Carlos Mandele ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
 
-<img src="https://komarev.com/ghpvc/?username=CarlosMandelea&color=yellow" alt="Profile views" />  
+<img src="https://komarev.com/ghpvc/?username=CarlosMandele&color=yellow" alt="Profile views" />  
 
 
 Data Scientist and Full Stack Python developer in progress
