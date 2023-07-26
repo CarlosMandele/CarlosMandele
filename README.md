@@ -7,15 +7,15 @@ Data Scientist and Full Stack Python developer in progress
 
 🎓 I have a degree in Building Technology.
  
-🎓 I am currently in career transition to data area, studying Bachelor of studying Science in Data Science.
+🎓 I am currently in career transition to the universe of technology (IT) especially for data area, studying Bachelor of studying Science in Data Science.
 
-🔭 I am looking for a job opportunity in the field of data science.
+🔭 I am looking for a job opportunity in the area.
 
-🔭 I am also interested in the area of Python software development
+🔭 I am also interested in application development and Python software.
 
 💡 I am also interested in collaborating on any data science and open source python project.
 
-☕ In my free time I like to play video games, travel, listen to good music and drink good wine (cheers).
+☕ I like to play games, travel, listen to good music and drink a good wine (applause)..
 
 You can ask me anything, I'll gladly answer it if I can
 
