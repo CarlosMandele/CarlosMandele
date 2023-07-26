@@ -5,7 +5,7 @@
 
 Data Scientist and Full Stack Python developer in progress
 
-🎓 I am a Civil Engineering.
+🎓 I have a degree in Building Technology.
  
 🎓 I am currently in career transition to data area, studying Bachelor of studying Science in Data Science.
 
