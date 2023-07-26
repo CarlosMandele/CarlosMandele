@@ -26,7 +26,7 @@ You can ask me anything, I'll gladly answer it if I can
 
 ## You can find me here too 👇:
 
-<a href="https://www.linkedin.com/in/kalombola/" target="_blank">
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/carlosmandele/" target="_blank">
 <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 </a>  
 
