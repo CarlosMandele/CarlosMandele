@@ -20,18 +20,6 @@ Data Scientist and Full Stack Python developer in progress
 You can ask me anything, I'll gladly answer it if I can
 
 -----
-
- 
--------
-
-## You can find me here too 👇:
-
-<a href="https://www.linkedin.com/in/www.linkedin.com/in/carlosmandele/" target="_blank">
-<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
-</a>  
-
-------
-
 ## Technologies, programming languages and tools i use the most
 
 <div align="center"><br>
@@ -58,6 +46,14 @@ You can ask me anything, I'll gladly answer it if I can
 ## 
 | <a href="https://github.com/CarlosMandele/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosMandele&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Carlos  Mandele's github stats" /></a> | <a href="https://github.com/CarlosMandele/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMandele&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+ 
+-------
 
+## You can find me here too 👇:
 
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/carlosmandele/" target="_blank">
+<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+</a>  
+
+------
 ## Projects in progress 👇
