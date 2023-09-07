@@ -55,9 +55,9 @@ You can ask me anything, I'll gladly answer it if I can
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
  </div>
 
- 
+## 
+| <a href="https://github.com/CarlosMandele/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosMandele&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Carlos  Mandele's github stats" /></a> | <a href="https://github.com/CarlosMandele/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMandele&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 
 ## Projects in progress 👇
-
-
-
