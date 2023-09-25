@@ -25,7 +25,7 @@ You can ask me anything, I'll gladly answer it if I can
 | ------------- | ------------- |
 
 -----
-## Technologies, programming languages and tools i use the most
+## Technologies Stack 
 
 <div align="center"><br>
 
