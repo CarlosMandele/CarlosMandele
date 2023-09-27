@@ -46,7 +46,7 @@ You can ask me anything, I'll gladly answer it if I can
 
 
 ## 
-| <a href="https://github.com/CarlosMandele/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosMandele&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Carlos  Mandele's github stats" /></a> | <a href="https://github.com/CarlosMandele/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMandele&layout=compact&theme=buefy&hide_border=true" /></a> |
+| [![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosMandele&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/julianikulski/github-readme-stats) | <a href="https://github.com/CarlosMandele/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMandele&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 -----
