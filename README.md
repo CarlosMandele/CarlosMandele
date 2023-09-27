@@ -1,9 +1,34 @@
 ## Hello, i'm Carlos Mandele ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
 
-<img src="https://komarev.com/ghpvc/?username=CarlosMandele&color=yellow" alt="Profile views" />  
+<div>
+  <a href="https://youtube.com/" target="_blank">
+    <img src=https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://github.com/CarlosMandele" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://twitter.com/" target="_blank">
+    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/carlosmandele" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+</div>
 
+<div>
+ 
+  <img src="https://komarev.com/ghpvc/?username=CarlosMandele&color=yellow" alt="Profile views" />
+ </a>
+  <a href="https://github.com/CarlosMandele" target="_blank">
+    <img src="https://img.shields.io/github/followers/CarlosMandele?style=social" alt="GitHub Stars" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://github.com/CarlosMandele" target="_blank">
+    <img src="https://img.shields.io/github/stars/CarlosMandele?style=social" alt="GitHub Stars" style="margin-bottom: 5px;" />
+  </a>
+</div>
 
-Data Scientist and Full Stack Python developer in progress
+#
+ Data Scientist and Full Stack Python developer in progress
 
 🎓 I have a degree in Building Technology.
  
@@ -160,12 +185,6 @@ You can ask me anything, I'll gladly answer it if I can
 <br/>
 
 <!-- SKILLSET:END -->
-
-## You can find me here too 👇:
-
-<a href="https://www.linkedin.com/in/www.linkedin.com/in/carlosmandele/" target="_blank">
-<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
-</a>  
 
 ------
 ## Projects in progress 👇
