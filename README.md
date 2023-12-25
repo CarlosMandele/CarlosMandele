@@ -104,8 +104,6 @@ You can ask me anything, I'll gladly answer it if I can
 <img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
 <img style="margin: 10px" src="assets/java.svg" alt="Java" title="Java" height="50" />
 <img style="margin: 10px" src="assets/kotlin.svg" alt="Kotlin" title="Kotlin" height="50" />
-<img style="margin: 10px" src="assets/php.svg" alt="PHP" title="PHP" height="50" />
-<img style="margin: 10px" src="assets/xampp.svg" alt="XAMPP" title="XAMPP" height="50" />
 
 </td>
 <td align="center" valign="top">
