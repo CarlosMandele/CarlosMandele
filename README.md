@@ -44,12 +44,12 @@
 
 You can ask me anything, I'll gladly answer it if I can
 
+##
+| ![carlosmandele top stats](https://github-readme-stats.vercel.app/api?username=carlosmandele&theme=chartreuse-dark&count_private=true&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmandele&hide=java&langscount=6&layout=compact&theme=darcula)](https://github.com/carlosmandele/github-readme-stats)
+|-----------|-----------|
 
-## 
-| [![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosmandele&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/carlosmandele/github-readme-stats) | <a href="https://github.com/carlosmandele/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmandele&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 
------
+<!---| [![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosmandele&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/carlosmandele/github-readme-stats) | <a href="https://github.com/carlosmandele/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmandele&layout=compact&theme=buefy&hide_border=true" /></a> |-->
 
 <!-- BIO:END -->
 
