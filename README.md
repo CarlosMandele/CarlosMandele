@@ -28,11 +28,9 @@
 </div>
 
 #
- Data Scientist and Full Stack Python developer in progress
+ Machine Learning and Artificial Intelligence Engineer/Data Scientist, in progress
 
-🎓 I have a degree in Building Technology.
- 
-🎓 I am currently in career transition to the universe of technology (IT) especially for data area, studying Bachelor of studying Science in Data Science.
+🎓 I have a degree in Civil Engineering and Building Technology.
 
 🔭 I am looking for a job opportunity in the area.
 
