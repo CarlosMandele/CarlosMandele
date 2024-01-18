@@ -36,7 +36,7 @@
 
 🔭 I am also interested in application development and Python software.
 
-💡 I am also interested in collaborating on any data science and open source python project.
+💡 I'm also interested in collaborating on any machine learning, artificial intelligence/data science projects, and open source python projects.
 
 ☕ I like to play games, travel, listen to good music and drink a good wine (applause)..
 
