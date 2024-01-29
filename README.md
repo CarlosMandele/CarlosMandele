@@ -1,13 +1,13 @@
-## Hello, i'm Carlos Mandele ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
+## Hello, i'm Carlos Kalombola ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
 
 <div>
   <a href="https://youtube.com/" target="_blank">
     <img src=https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
-  <a href="https://github.com/carlosmandele" target="_blank">
+  <a href="https://github.com/carloskalombola" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
-  <a href="https://twitter.com/" target="_blank">
+  <a href="https://twitter.com/carloskalombola" target="_blank">
     <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
   </a>
   <a href="https://linkedin.com/in/carlosmandele" target="_blank">
@@ -17,13 +17,13 @@
 
 <div>
  
-  <img src="https://komarev.com/ghpvc/?username=carlosmandele&color=yellow" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=carloskalombola&color=yellow" alt="Profile views" />
  </a>
-  <a href="https://github.com/carlosmandele" target="_blank">
-    <img src="https://img.shields.io/github/followers/carlosmandele?style=social" alt="GitHub Stars" style="margin-bottom: 5px;" />
+  <a href="https://github.com/carloskalombola" target="_blank">
+    <img src="https://img.shields.io/github/followers/carloskalombola?style=social" alt="GitHub Stars" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://github.com/carlosmandele" target="_blank">
-    <img src="https://img.shields.io/github/stars/carlosmandele?style=social" alt="GitHub Stars" style="margin-bottom: 5px;" />
+  <a href="https://github.com/carloskalombola" target="_blank">
+    <img src="https://img.shields.io/github/stars/carloskalombola?style=social" alt="GitHub Stars" style="margin-bottom: 5px;" />
   </a>
 </div>
 
@@ -43,11 +43,9 @@
 You can ask me anything, I'll gladly answer it if I can
 
 ##
-| ![carlosmandele top stats](https://github-readme-stats.vercel.app/api?username=carlosmandele&theme=chartreuse-dark&count_private=true&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmandele&hide=java&langscount=6&layout=compact&theme=darcula)](https://github.com/carlosmandele/github-readme-stats)
+[![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carloskalombola&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/carloskalombola/github-readme-stats) |<a href="https://github.com/carloskalombola/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloskalombola&layout=compact&theme=buefy&hide_border=true" /></a>
 |-----------|-----------|
 
-
-<!---| [![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosmandele&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/carlosmandele/github-readme-stats) | <a href="https://github.com/carlosmandele/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmandele&layout=compact&theme=buefy&hide_border=true" /></a> |-->
 
 <!-- BIO:END -->
 
