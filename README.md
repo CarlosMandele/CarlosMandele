@@ -61,13 +61,17 @@ You can ask me anything, I'll gladly answer it if I can
 <tr>
 <td align="center" width="50%" valign="top">
 
-### Frontend
+### Tools & IDEs
 
-<img style="margin: 10px" src="assets/html5.svg" alt="HTML5" title="HTML5" height="50" />
-<img style="margin: 10px" src="assets/css3.svg" alt="CSS3" title="CSS3" height="50" />
-<img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
-<img style="margin: 10px" src="assets/nodejs.svg" alt="Node.js" title="Node.js" height="50" />
-<img style="margin: 10px" src="assets/reactjs.svg" alt="React" title="React" height="50" />
+<img style="margin: 10px" src="assets/jupyter.svg" alt="Jupyter" title="Jupyter" height="40" />
+<img style="margin: 10px" src="assets/github-desktop.svg" alt="GitHub Desktop" title="GitHub Desktop" height="50" />
+<img style="margin: 10px" src="assets/jetbrains-webstorm.svg" alt="WebStorm" title="WebStorm" height="50" />
+<img style="margin: 10px" src="assets/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code" height="50" />
+<img style="margin: 10px" src="assets/jetbrains-rider.svg" alt="Rider" title="Rider" height="50" />
+<img style="margin: 10px" src="assets/android-studio.svg" alt="Android Studio" title="Android Studio" height="50" />
+<img style="margin: 10px" src="assets/jetbrains-pycharm.svg" alt="PyCharm" title="PyCharm" height="50" />
+<img style="margin: 10px" src="assets/jetbrains-intellij-idea.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" height="50" />
+<img style="margin: 10px" src="assets/visual-studio.svg" alt="Visual Studio" title="Visual Studio" height="50" />
 
 </td>
 <td align="center" valign="top">
@@ -156,22 +160,6 @@ You can ask me anything, I'll gladly answer it if I can
 </td>
 </tr>
 
-<tr>
-<td align="center" valign="top">
-
-### Tools & IDEs
-
-<img style="margin: 10px" src="assets/jupyter.svg" alt="Jupyter" title="Jupyter" height="40" />
-<img style="margin: 10px" src="assets/github-desktop.svg" alt="GitHub Desktop" title="GitHub Desktop" height="50" />
-<img style="margin: 10px" src="assets/jetbrains-webstorm.svg" alt="WebStorm" title="WebStorm" height="50" />
-<img style="margin: 10px" src="assets/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code" height="50" />
-<img style="margin: 10px" src="assets/jetbrains-rider.svg" alt="Rider" title="Rider" height="50" />
-<img style="margin: 10px" src="assets/android-studio.svg" alt="Android Studio" title="Android Studio" height="50" />
-<img style="margin: 10px" src="assets/jetbrains-pycharm.svg" alt="PyCharm" title="PyCharm" height="50" />
-<img style="margin: 10px" src="assets/jetbrains-intellij-idea.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" height="50" />
-<img style="margin: 10px" src="assets/visual-studio.svg" alt="Visual Studio" title="Visual Studio" height="50" />
-
-</td>
 
 </table>
 </details>
