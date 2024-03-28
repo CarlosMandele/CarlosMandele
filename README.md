@@ -144,7 +144,7 @@ You can ask me anything, I'll gladly answer it if I can
 
 ### Hardware & IoT
 
-<img style="margin: 10px" src="assets/micropython.svg" alt="MicroPython" title="MicroPython" height="50" />
+<img style="margin: 10px" src="assets/micropython.svg" alt="MicroPython" title="MicroPython" height="55" />
 <img style="margin: 10px" src="assets/arduino.svg" alt="Arduino" title="Arduino" height="50" />
 <img style="margin: 10px" src="assets/cplusplus.svg" alt="C++" title="C++" height="50" />
 <img style="margin: 10px" src="assets/raspberry-pi.svg" alt="Raspberry Pi" title="Raspberry Pi" height="50" />
