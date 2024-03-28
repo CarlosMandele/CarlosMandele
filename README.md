@@ -100,7 +100,6 @@ You can ask me anything, I'll gladly answer it if I can
 
 <img style="margin: 10px" src="assets/python.svg" alt="Python" title="Python" height="50" />
 <img style="margin: 10px" src="assets/django.svg" alt="Django" title="Django" height="50" />
-<img style="margin: 10px" src="assets/nodejs.svg" alt="Node.js" title="Node.js" height="50" />
 <img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
 <img style="margin: 10px" src="assets/java.svg" alt="Java" title="Java" height="50" />
 <img style="margin: 10px" src="assets/kotlin.svg" alt="Kotlin" title="Kotlin" height="50" />
