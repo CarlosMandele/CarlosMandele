@@ -65,13 +65,10 @@ You can ask me anything, I'll gladly answer it if I can
 
 <img style="margin: 10px" src="assets/jupyter.svg" alt="Jupyter" title="Jupyter" height="40" />
 <img style="margin: 10px" src="assets/github-desktop.svg" alt="GitHub Desktop" title="GitHub Desktop" height="50" />
-<img style="margin: 10px" src="assets/jetbrains-webstorm.svg" alt="WebStorm" title="WebStorm" height="50" />
 <img style="margin: 10px" src="assets/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code" height="50" />
-<img style="margin: 10px" src="assets/jetbrains-rider.svg" alt="Rider" title="Rider" height="50" />
 <img style="margin: 10px" src="assets/android-studio.svg" alt="Android Studio" title="Android Studio" height="50" />
 <img style="margin: 10px" src="assets/jetbrains-pycharm.svg" alt="PyCharm" title="PyCharm" height="50" />
 <img style="margin: 10px" src="assets/jetbrains-intellij-idea.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" height="50" />
-<img style="margin: 10px" src="assets/visual-studio.svg" alt="Visual Studio" title="Visual Studio" height="50" />
 
 </td>
 <td align="center" valign="top">
@@ -82,7 +79,6 @@ You can ask me anything, I'll gladly answer it if I can
 <img style="margin: 10px" src="assets/numpy.svg" alt="Numpy" title="Numpy" height="50" />
 <img style="margin: 10px" src="assets/pandas.svg" alt="Pandas" title="Pandas" height="50" />
 <img style="margin: 10px" src="assets/matplotlib.svg" alt="Matplotlib" title="Matplotlib" height="40" />
-<img style="margin: 10px" src="assets/seaborn.svg" alt="Seaborn" title="Seaborn" height="50" />
 <img style="margin: 10px" src="assets/selenium.svg" alt="Selenium" title="Selenium" height="50" />
 <img style="margin: 10px" src="assets/scikit-learn.svg" alt="Scikit-Learn" title="Scikit-Learn" height="50" />
 <img style="margin: 10px" src="assets/pytorch.svg" alt="PyTorch" title="PyTorch" height="40" />
