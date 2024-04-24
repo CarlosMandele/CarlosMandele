@@ -73,7 +73,7 @@ You can ask me anything, I'll gladly answer it if I can
 </td>
 <td align="center" valign="top">
 
-### Data Science & Artificial intelligence/ML/Computer vision
+### Data Science & AI/Machine Learning
 
 <img style="margin: 10px" src="assets/python.svg" alt="Python" title="Python" height="50" />
 <img style="margin: 10px" src="assets/numpy.svg" alt="Numpy" title="Numpy" height="50" />
