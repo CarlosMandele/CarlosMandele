@@ -1,10 +1,11 @@
-## Hello, i'm Carlos Kalombola ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
+## Hello, i'm Carlos Mandele Kalombola ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
 
 <div>
   <a href="https://youtube.com/" target="_blank">
     <img src=https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
-  <a href="https://github.com/carloskalombola" target="_blank">
+  <a href="https://github.com/ckmandele![image](https://github.com/user-attachments/assets/3e3d7f94-ecbd-4f68-b05c-bf1efc68bbca)
+" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
   <a href="https://twitter.com/carloskalombola" target="_blank">
@@ -17,13 +18,13 @@
 
 <div>
  
-  <img src="https://komarev.com/ghpvc/?username=carloskalombola&color=yellow" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ckmandele&color=yellow" alt="Profile views" />
  </a>
-  <a href="https://github.com/carloskalombola" target="_blank">
-    <img src="https://img.shields.io/github/followers/carloskalombola?style=social" alt="GitHub Stars" style="margin-bottom: 5px;" />
+  <a href="https://github.com/ckmandele" target="_blank">
+    <img src="https://img.shields.io/github/followers/ckmandele?style=social" alt="GitHub Stars" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://github.com/carloskalombola" target="_blank">
-    <img src="https://img.shields.io/github/stars/carloskalombola?style=social" alt="GitHub Stars" style="margin-bottom: 5px;" />
+  <a href="https://github.com/ckmandele" target="_blank">
+    <img src="https://img.shields.io/github/stars/ckmandele?style=social" alt="GitHub Stars" style="margin-bottom: 5px;" />
   </a>
 </div>
 
@@ -43,7 +44,7 @@
 You can ask me anything, I'll gladly answer it if I can
 
 ##
-[![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carloskalombola&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/carloskalombola/github-readme-stats) |<a href="https://github.com/carloskalombola/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloskalombola&layout=compact&theme=buefy&hide_border=true" /></a>
+[![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckmandele&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/ckmandele/github-readme-stats) |<a href="https://github.com/ckmandele/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckmandele&layout=compact&theme=buefy&hide_border=true" /></a>
 |-----------|-----------|
 
 
