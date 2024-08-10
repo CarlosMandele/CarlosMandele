@@ -4,7 +4,7 @@
   <a href="https://youtube.com/" target="_blank">
     <img src=https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
-  <a href="https://github.com/ckmandele![image](https://github.com/user-attachments/assets/3e3d7f94-ecbd-4f68-b05c-bf1efc68bbca)
+  <a href="https://github.com/carlosmandele![image](https://github.com/user-attachments/assets/3e3d7f94-ecbd-4f68-b05c-bf1efc68bbca)
 " target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
@@ -18,13 +18,13 @@
 
 <div>
  
-  <img src="https://komarev.com/ghpvc/?username=ckmandele&color=yellow" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=carlosmandele&color=yellow" alt="Profile views" />
  </a>
-  <a href="https://github.com/ckmandele" target="_blank">
-    <img src="https://img.shields.io/github/followers/ckmandele?style=social" alt="GitHub Stars" style="margin-bottom: 5px;" />
+  <a href="https://github.com/carlosmandele" target="_blank">
+    <img src="https://img.shields.io/github/followers/carlosmandele?style=social" alt="GitHub Stars" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://github.com/ckmandele" target="_blank">
-    <img src="https://img.shields.io/github/stars/ckmandele?style=social" alt="GitHub Stars" style="margin-bottom: 5px;" />
+  <a href="https://github.com/carlosmandele" target="_blank">
+    <img src="https://img.shields.io/github/stars/carlosmandele?style=social" alt="GitHub Stars" style="margin-bottom: 5px;" />
   </a>
 </div>
 
@@ -44,7 +44,7 @@
 You can ask me anything, I'll gladly answer it if I can
 
 ##
-[![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckmandele&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/ckmandele/github-readme-stats) |<a href="https://github.com/ckmandele/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckmandele&layout=compact&theme=buefy&hide_border=true" /></a>
+[![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosmandele&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/carlosmandele/github-readme-stats) |<a href="https://github.com/carlosmandele/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmandele&layout=compact&theme=buefy&hide_border=true" /></a>
 |-----------|-----------|
 
 
