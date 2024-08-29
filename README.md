@@ -1,4 +1,4 @@
-## Hello, i'm Carlos Mandele Kalombola ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
+## Hello, i'm Carlos Mandele ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
 
 <div>
   <a href="https://youtube.com/" target="_blank">
